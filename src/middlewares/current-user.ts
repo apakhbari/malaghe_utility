@@ -1,9 +1,16 @@
 import { Request, Response, NextFunction } from 'express';
 import jwt from 'jsonwebtoken';
 
+import { UsersRoles } from '../events/types/users-roles';
+
+
 interface UserPayload {
   id: string;
   email: string;
+  mobile: number;
+  fiName: string;
+  laName: string;
+  role: UsersRoles;
 }
 
 // Add an optional prop: currentUser

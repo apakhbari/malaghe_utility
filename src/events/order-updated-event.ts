@@ -1,8 +1,8 @@
 import { Subjects } from './subjects';
 import { ServiceStatus } from './types/service-status';
 
-export interface OrderCreatedEvent {
-  subject: Subjects.OrderCreated;
+export interface OrderUpdatedEvent {
+  subject: Subjects.OrderUpdated;
   data: {
     id: string;
     version: number;
