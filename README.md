@@ -1,6 +1,6 @@
 # malaghe_utility
 
-![ascii_malaghe_utility](https://github.com/apakhbari/malaghe_utility/ascii_malaghe_utility.png)
+![https://github.com/apakhbari/malaghe_utility/ascii_malaghe_utility.png](https://github.com/apakhbari/malaghe_utility/ascii_malaghe_utility.png)
 
 ### ---
 
@@ -132,4 +132,4 @@ npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
 
 <br>
 
-![ascii_apa](https://github.com/apakhbari/malaghe_utility/ascii_apa.png)
+![https://github.com/apakhbari/malaghe_utility/ascii_malaghe_utility.png](https://github.com/apakhbari/malaghe_utility/ascii_apa.png)
