@@ -1,13 +1,15 @@
 import { Subjects } from './subjects';
+import {Types} from 'mongoose';
+
 
 export interface OrderCancelledEvent {
   subject: Subjects.OrderCancelled;
   data: {
-    id: string;
+    id: Types.ObjectId;
     version: number;
-    userId: string;
+    userId: Types.ObjectId;
     store:[{
-      id: string;
+      id: Types.ObjectId;
       quantity: number;
     }];
   };

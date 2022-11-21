@@ -1,11 +1,13 @@
 import { Subjects } from './subjects';
+import {Types} from 'mongoose';
+
 
 export interface MagUpdatedEvent {
   subject: Subjects.MagUpdated;
   data: {
-    id: string;
+    id: Types.ObjectId;
     version: number;
     title: string;
-    storeId: string;
+    storeId: Types.ObjectId;
   };
 }

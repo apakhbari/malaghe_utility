@@ -76,39 +76,39 @@ docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
 
 - OrderCreated = 'order:created'
 
-  id: string, version: number, userId: string, expiresAt: string, serviceStatus?: ServiceStatus,
+  id: Types.ObjectId, version: number, userId: Types.ObjectId, expiresAt: string, serviceStatus?: ServiceStatus,
 
-  store:[{id: string, title: string, price: number, quantity: number}]
+  store:[{id: Types.ObjectId, title: string, price: number, quantity: number}]
 
 - OrderCancelled = 'order:cancelled'
 
-  id: string, version: number, userId: string,
+  id: Types.ObjectId, version: number, userId: Types.ObjectId,
 
-  store:[{id: string, quantity: number;}]
+  store:[{id: Types.ObjectId, quantity: number;}]
 
 - OrderUpdated = 'order:updated'
 
-  id: string, version: number, userId: string, expiresAt: string, serviceStatus?: ServiceStatus,
+  id: Types.ObjectId, version: number, userId: Types.ObjectId, expiresAt: string, serviceStatus?: ServiceStatus,
 
-  store?:[{id: string, title: string, price: number, quantity: number}]
+  store?:[{id: Types.ObjectId, title: string, price: number, quantity: number}]
 
 - OrderCompleted = 'order:completed'
 
-  id: string, version: string, userId: string
+  id: Types.ObjectId, version: string, userId: Types.ObjectId
 
 <br>
 
 - MagAssigned = 'mag:assigned'
 
-  id: string, version: number, title:string, storeId: string
+  id: Types.ObjectId, version: number, title:string, storeId: Types.ObjectId
 
 - MagUpdated = 'mag:updated'
 
-  id: string, version: number, slug: string, storeId?: string
+  id: Types.ObjectId, version: number, slug: string, storeId?: Types.ObjectId
 
 - MagDeleted = 'mag:deleted'
 
-  id: string, version: number, storeId?: string
+  id: Types.ObjectId, version: number, storeId?: Types.ObjectId
 
 ---
 
