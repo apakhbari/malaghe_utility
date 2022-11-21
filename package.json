@@ -13,7 +13,7 @@
     "pub": "git add . && git commit -m \"Updates\" && git push -u origin master && npm version patch && npm run build && npm publish"
   },
   "keywords": [],
-  "author": "",
+  "author": "APA",
   "license": "ISC",
   "devDependencies": {
     "del-cli": "^3.0.1",

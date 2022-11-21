@@ -10,13 +10,15 @@
 
 ### ---
 
-## Useful Links:
-
-github --> https://github.com/apakhbari/malaghe_utility
-
-docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
+## Links:
 
 npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
+
+github: malaghe_utility --> https://github.com/apakhbari/malaghe_utility
+
+github: malaghe --> https://github.com/apakhbari/malaghe
+
+docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
 
 ---
 
@@ -98,7 +100,7 @@ npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
 
 - MagAssigned = 'mag:assigned'
 
-  id: string, version: number, slug:string, storeId?: string
+  id: string, version: number, title:string, storeId: string
 
 - MagUpdated = 'mag:updated'
 
@@ -132,4 +134,4 @@ npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
 
 <br>
 
-![ascii_malaghe_utility.png](ascii_apa.png)
+![ascii_apa.png](ascii_apa.png)

@@ -5,6 +5,7 @@ export interface MagDeletedEvent {
   data: {
     id: string;
     version: number;
-    storeId?: string;
+    title: string;
+    storeId: string;
   };
 }

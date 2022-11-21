@@ -5,7 +5,7 @@ export interface MagUpdatedEvent {
   data: {
     id: string;
     version: number;
-    slug: string;
-    storeId?: string;
+    title: string;
+    storeId: string;
   };
 }
