@@ -1,6 +1,6 @@
 {
   "name": "@apa_malaghe/utility",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Utility library for developing a personal project by apa, copyright © 2022 all rights reserved.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
