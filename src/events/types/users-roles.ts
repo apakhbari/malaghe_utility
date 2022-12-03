@@ -1,11 +1,11 @@
 export enum UsersRoles {
-  User = 'user',
+  User = '0',
 
-  Admin = 'admin',
+  Admin = '1993',
 
-  Operator = 'Operator',
+  Operator = '3',
 
-  Technician = 'technician',
+  Technician = '5',
 
-  Transporter = 'transporter',
+  Transporter = '7',
 }

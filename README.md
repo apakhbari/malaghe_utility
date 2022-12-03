@@ -60,15 +60,23 @@ docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
 
 ## UsersRoles:
 
-- User
+- User --> 0
 
-- Admin
+- Admin --> 1993
 
-- Operator
+- Operator --> 3
 
-- Technician
+- Technician --> 5
 
-- Transporter
+- Transporter --> 7
+
+---
+
+## UsersGender:
+
+- Woman --> 0
+
+- Man --> 1
 
 ---
 
