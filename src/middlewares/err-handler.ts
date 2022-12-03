@@ -12,6 +12,7 @@ export const errorHandler = (
   }
 
   console.error(err)
+  console.log(err)
   res.status(400).send({
     errors: [{ message: 'Unhandled error', data: err }],
   })
