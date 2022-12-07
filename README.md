@@ -132,6 +132,8 @@ docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
 
 - require-auth
 
+- require-access
+
 - validate-request
 
 ---
