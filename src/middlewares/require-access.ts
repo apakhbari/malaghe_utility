@@ -3,7 +3,7 @@ import { NotAuthorizedError } from '../errors/not-authorized-error'
 
 import { UsersRoles } from '../events/types/users-roles'
 
-export const requireAuth = (
+export const requireAccess = (
   req: Request,
   res: Response,
   next: NextFunction

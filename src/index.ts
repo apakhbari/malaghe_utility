@@ -9,6 +9,7 @@ export * from './middlewares/current-user'
 export * from './middlewares/err-handler'
 export * from './middlewares/require-auth'
 export * from './middlewares/validate-request'
+export * from './middlewares/require-access'
 
 export * from './events/listener'
 export * from './events/publisher'
