@@ -74,9 +74,9 @@ docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
 
 ## UsersGender:
 
-- Woman --> 0
+- Woman --> زن
 
-- Man --> 1
+- Man --> مرد
 
 ---
 
