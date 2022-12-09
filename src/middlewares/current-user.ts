@@ -7,6 +7,7 @@ import { UsersGender } from '../events/types/users-gender'
 interface UserPayload {
   id: string
   mobile: number
+  fiName: string
   laName: string
   gender: UsersGender
   role: UsersRoles
