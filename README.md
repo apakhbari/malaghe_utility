@@ -3,18 +3,18 @@
 ![ascii_malaghe_utility.png](ascii_malaghe_utility.png)
 
 ---
+
 ## ⚠️ WARNING ⚠️
 
 This project is using kubernetes + microservices architecture and no longer maintained. I've stopped using the workflow that made it relevant to me.
 
 ---
 
-
 ## Links:
 
 npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
 
-github: malaghe_utility --> https://github.com/apakhbari/malaghe_utility
+github: malaghe_utility --> https://github.com/apakhbari/malaghe-k8s-utility
 
 github: malaghe --> https://github.com/apakhbari/malaghe-k8s
 
