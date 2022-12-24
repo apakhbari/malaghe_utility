@@ -129,9 +129,7 @@ github: malaghe --> https://github.com/apakhbari/malaghe-k8s
 
 ---
 
-## Developed by APA
-
-### copyright © 2022 all rights reserved
+## Developed by APA, 2022
 
 <br>
 
