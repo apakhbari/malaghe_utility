@@ -16,9 +16,7 @@ npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
 
 github: malaghe_utility --> https://github.com/apakhbari/malaghe_utility
 
-github: malaghe --> https://github.com/apakhbari/malaghe
-
-docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
+github: malaghe --> https://github.com/apakhbari/malaghe-k8s
 
 ---
 
