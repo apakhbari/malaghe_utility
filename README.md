@@ -4,12 +4,6 @@
 
 ### ---
 
-### ⌘K V --> split view
-
-### ⇧⌘V --> separate view
-
-### ---
-
 ## Links:
 
 npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
