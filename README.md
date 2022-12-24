@@ -2,6 +2,13 @@
 
 ![ascii_malaghe_utility.png](ascii_malaghe_utility.png)
 
+---
+## ⚠️ WARNING ⚠️
+
+This project is using kubernetes + microservices architecture and no longer maintained. I've stopped using the workflow that made it relevant to me.
+
+---
+
 
 ## Links:
 
