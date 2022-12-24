@@ -2,7 +2,6 @@
 
 ![ascii_malaghe_utility.png](ascii_malaghe_utility.png)
 
-### ---
 
 ## Links:
 
