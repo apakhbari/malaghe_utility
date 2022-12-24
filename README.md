@@ -2,13 +2,13 @@
 
 ![ascii_malaghe_utility.png](ascii_malaghe_utility.png)
 
-### ---
+---
+## ⚠️ WARNING ⚠️
 
-### ⌘K V --> split view
+This project is using kubernetes + microservices architecture and no longer maintained. I've stopped using the workflow that made it relevant to me.
 
-### ⇧⌘V --> separate view
+---
 
-### ---
 
 ## Links:
 
@@ -16,9 +16,7 @@ npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
 
 github: malaghe_utility --> https://github.com/apakhbari/malaghe_utility
 
-github: malaghe --> https://github.com/apakhbari/malaghe
-
-docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
+github: malaghe --> https://github.com/apakhbari/malaghe-k8s
 
 ---
 
@@ -138,9 +136,7 @@ docker --> https://hub.docker.com/repository/docker/apakhbari/malaghe
 
 ---
 
-## Developed by APA
-
-### copyright © 2022 all rights reserved
+## Developed by APA, 2022
 
 <br>
 
